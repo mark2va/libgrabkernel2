@@ -13,7 +13,7 @@
 #import <sys/sysctl.h>
 #import "utils.h"
 
-#define BASE_URL @"https://api.appledb.dev/ios/"
+#define BASE_URL @"https://mark2va.github.io/appledb/ios/"
 #define ALL_VERSIONS BASE_URL @"main.json.xz"
 
 NSArray *hostsNeedingAuth = @[@"adcdownload.apple.com", @"download.developer.apple.com", @"developer.apple.com"];
